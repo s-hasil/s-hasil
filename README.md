@@ -14,7 +14,9 @@
 <br>
 
 <a href="https://github.com/JoyBoySer"><img align="left" width="100" src="https://i.pinimg.com/originals/58/61/e5/5861e50201592def2f861e910120fff6.png"></a>
-Hey Baka,I Am Shasil Also Know As Joy Boy Ser. My passions: gaming, anime, manga, and dabbling in coding and tinkering.
+Hi, I’m Muhammad Shasil, also known as Shasil.
+I’m a Data Scientist with a strong interest in data analysis, machine learning, and Python-based problem solving. I enjoy exploring data-driven insights, building intelligent systems, and continuously learning new technologies.
+
 <br><br>
 <br>
 
