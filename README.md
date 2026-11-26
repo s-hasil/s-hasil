@@ -27,20 +27,7 @@ I’m a Data Scientist with a strong interest in data analysis, machine learning
 </a>
 <br>
 
-## **🟪Profile Counter**
-<a href="https://www.instagram.com/joy_boy_ser_/"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@JoyBoySer?theme=rule34"></a>
-<a href="https://github.com/JoyBoySer"><img align="left" width="100" src="https://static.wikia.nocookie.net/pokemeow-community/images/f/fd/Darkrai_%28Shiny%29_-_Pokemon_-_Pokemeow.gif/revision/latest/thumbnail/width/360/height/360?cb=20201206134815"></a>
 
-```yaml
-Oi,Dont Copy This Baka
-```
-<!-->
-
-
-
-
-
-![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
 
 
 
