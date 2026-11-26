@@ -22,7 +22,9 @@ I’m a Data Scientist with a strong interest in data analysis, machine learning
 
 
 ## **🎧 Spotify**
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bn53unvqnyyq4dmqlpxxld4ca4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bn53unvqnyyq4dmqlpxxld4ca4&redirect=true)
+<a href="https://open.spotify.com/user/31bn53unvqnyyq4dmqlpxxld4ca4">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31bn53unvqnyyq4dmqlpxxld4ca4&amp;width=420&amp;unique=1" alt="Spotify recently played" width="420" />
+</a>
 
 ## **🟪Profile Counter**
 <a href="https://www.instagram.com/joy_boy_ser_/"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@JoyBoySer?theme=rule34"></a>
