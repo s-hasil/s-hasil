@@ -22,29 +22,7 @@ I’m a Data Scientist with a strong interest in data analysis, machine learning
 
 
 ## **🎧 Spotify**
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31bn53unvqnyyq4dmqlpxxld4ca4&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31bn53unvqnyyq4dmqlpxxld4ca4&cover_image=true&theme=default&show_offline=true&background_color=4e3f68&interchange=false&bar_color_cover=true">
-  </a>
-  <a href="https://open.spotify.com/user/31bn53unvqnyyq4dmqlpxxld4ca4?si=6962aa5c8435476f">
-    <img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=31bn53unvqnyyq4dmqlpxxld4ca4">
-  </a>
-</p>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
-
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bn53unvqnyyq4dmqlpxxld4ca4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bn53unvqnyyq4dmqlpxxld4ca4&redirect=true)
 
 ## **🟪Profile Counter**
 <a href="https://www.instagram.com/joy_boy_ser_/"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@JoyBoySer?theme=rule34"></a>
