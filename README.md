@@ -23,8 +23,9 @@ I’m a Data Scientist with a strong interest in data analysis, machine learning
 
 ## **🎧 Spotify**
 <a href="https://open.spotify.com/user/31bn53unvqnyyq4dmqlpxxld4ca4">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31bn53unvqnyyq4dmqlpxxld4ca4&amp;width=420&amp;unique=1" alt="Spotify recently played" width="420" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31bn53unvqnyyq4dmqlpxxld4ca4&amp;theme=radical&amp;count=7&amp;width=570&amp;radius=19&amp;unique=1" alt="Spotify recently played" width="570" />
 </a>
+<br>
 
 ## **🟪Profile Counter**
 <a href="https://www.instagram.com/joy_boy_ser_/"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@JoyBoySer?theme=rule34"></a>
